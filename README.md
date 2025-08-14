@@ -68,13 +68,23 @@ Scroll the System Overview menu and click:
 
 - Compute → CPU (to show detailed CPU charts)
 
+  <img width="960" height="504" alt="screen-3" src="https://github.com/user-attachments/assets/e245bc66-7ba1-4be3-bcc5-053132efbabd" />
+
 - Memory → Used RAM & Swap
+
+  <img width="960" height="504" alt="screen-4" src="https://github.com/user-attachments/assets/4d4380cf-5d80-404f-97d9-47afd682519a" />
 
 - Storage → Disk Utilization
 
+  <img width="960" height="504" alt="screen-5" src="https://github.com/user-attachments/assets/6eb9f26b-49d4-43d2-938a-79a6e89a520f" />
+
 - Network → Network Interfaces
 
+  <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/55fe08b1-b70c-4b8c-862e-0cd5ccd59444" />
+
 - Containers & VMs → Container metrics
+
+  <img width="960" height="504" alt="screen-7" src="https://github.com/user-attachments/assets/0a3cc133-f8c7-41dd-b1c0-02de5595d776" />
 
 
 
